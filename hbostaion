@@ -1,0 +1,30 @@
+{
+"name": "HBO STATION",
+"author": “Copy By Beer",
+"image": "https://dl.dropbox.com/s/t0akldmz0fpp0lo/IMG_0056.JPG?dl=0",
+"url": "",
+"info": "", "stations": 
+[ 
+{
+"name":"CINEMAX",
+"image":"https://dl.dropbox.com/s/16wrpndmjqoekq4/Photo%2030-12-2564%20BE%2020%2004%2035.jpg?dl=0",
+"url":"http://udoofree.com/movie2/137/single-live?watch=1","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 เช่น Mac OS X) AppleWebKit/605.1 .15 (KHTML เช่น Gecko) เวอร์ชัน/14.0 มือถือ/15E148 Safari/604.1","info": "","desktop": "true"
+},
+{"name":"HBO HIS",
+"image":"https://dl.dropbox.com/s/4p4klnt9o7pozix/Photo%2030-12-2564%20BE%2019%2054%2029.png?dl=0",
+"url":"http://udoofree.com/movie2/306/single-live?watch=1","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 เช่น Mac OS X) AppleWebKit/605.1 .15 (KHTML เช่น Gecko) เวอร์ชัน/14.0 มือถือ/15E148 Safari/604.1","info": "","desktop": "true"
+},
+{"name":"HBO SIGNATURE",
+"image":"https://dl.dropbox.com/s/pellu9rvw4qg09u/Photo%2030-12-2564%20BE%2019%2054%2024.png?dl=0",
+"url":"http://udoofree.com/movie2/135/single-live?watch=1","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 เช่น Mac OS X) AppleWebKit/605.1 .15 (KHTML เช่น Gecko) เวอร์ชัน/14.0 มือถือ/15E148 Safari/604.1","info": "","desktop": "true"
+},
+{"name":"HBO",
+"image":"https://dl.dropbox.com/s/b6whkhth3rjpu9x/Photo%2030-12-2564%20BE%2019%2054%2003.jpg?dl=0",
+"url":"http://udoofree.com/movie2/231/single-live?watch=1","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 เช่น Mac OS X) AppleWebKit/605.1 .15 (KHTML เช่น Gecko) เวอร์ชัน/14.0 มือถือ/15E148 Safari/604.1","info": "","desktop": "true"
+},
+{"name":"HBO FAMILY",
+"image":"https://dl.dropbox.com/s/g5ls5wkkn825984/Photo%2030-12-2564%20BE%2021%2047%2037.jpg?dl=0",
+"url":"http://udoofree.com/movie2/136/single-live?watch=1","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 เช่น Mac OS X) AppleWebKit/605.1 .15 (KHTML เช่น Gecko) เวอร์ชัน/14.0 มือถือ/15E148 Safari/604.1","info": "","desktop": "true"
+},
+]
+}
